@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This is v1.
+
 int main() {
     int r[2800 + 1];
     int i, k;
